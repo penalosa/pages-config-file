@@ -15,3 +15,7 @@ json: "value"
 VAR2 = "celebrate-prod"
 VAR3 = "another-var-prod"
 
+
+  [[env.production.kv_namespaces]]
+  id = "01962077d09242c5b0978a12bccaa5ed"
+  binding = "KV"
