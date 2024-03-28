@@ -5,10 +5,6 @@ compatibility_date = "2024-02-13"
 compatibility_flags = ["nodejs_compat"]
 
   [vars]
-  TEST_JSON = """
-{
-json: "value"
-}"""
   TEST_PLAINTEXT = "PLAINTEXT"
   VAR1 = "holiday-prod"
 VAR2 = "celebrate-prod"
