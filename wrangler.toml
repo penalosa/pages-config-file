@@ -49,3 +49,9 @@ queue = "test"
   [[analytics_engine_datasets]]
   binding = "AE"
   dataset = "data"
+
+  [ai]
+  binding = "AI"
+
+
+
