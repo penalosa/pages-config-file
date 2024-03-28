@@ -39,3 +39,8 @@ script_name = "testing"
   binding = "SERVICE"
   service = "no-bundle-import"
   environment = "production"
+
+  
+[[queues.producers]]
+binding = "Q"
+queue = "test"
