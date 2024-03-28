@@ -29,3 +29,8 @@ script_name = "testing"
   database_id = "16678423-f19c-4a82-a3c1-161345dcfefe"
   binding = "D1"
   database_name = "D1"
+
+
+  [[r2_buckets]]
+  bucket_name = "images"
+  binding = "R2"
