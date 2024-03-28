@@ -34,3 +34,8 @@ script_name = "testing"
   [[r2_buckets]]
   bucket_name = "images"
   binding = "R2"
+  
+  [[services]]
+  binding = "SERVICE"
+  service = "no-bundle-import"
+  environment = "production"
