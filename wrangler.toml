@@ -8,7 +8,7 @@ compatibility_flags = ["nodejs_compat"]
   TEST_PLAINTEXT = "PLAINTEXT"
   VAR1 = "holiday-prod"
 VAR2 = "celebrate-prod"
-VAR3 = "another-var-prod"
+VAR3 = "another-var-prod-2"
 
 
   [[kv_namespaces]]
