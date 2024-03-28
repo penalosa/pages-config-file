@@ -18,3 +18,9 @@ VAR3 = "another-var-prod"
   [[kv_namespaces]]
   id = "01962077d09242c5b0978a12bccaa5ed"
   binding = "KV"
+
+
+[[durable_objects.bindings]]
+name = "DO"
+class_name = "Counter"
+script_name = "testing"
