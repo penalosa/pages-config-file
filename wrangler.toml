@@ -44,3 +44,8 @@ script_name = "testing"
 [[queues.producers]]
 binding = "Q"
 queue = "test"
+
+
+  [[analytics_engine_datasets]]
+  binding = "AE"
+  dataset = "data"
