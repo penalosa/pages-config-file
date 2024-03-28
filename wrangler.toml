@@ -1,5 +1,5 @@
 name = "pages-config-file"
-pages_build_output_dir = "public"
+pages_build_output_dir = "public/dist-2"
 
 compatibility_date = "2024-02-13"
 compatibility_flags = ["nodejs_compat"]
