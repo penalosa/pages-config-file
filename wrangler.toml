@@ -16,10 +16,10 @@ VAR3 = "another-var-prod-2"
   binding = "KV"
 
 
-# [[durable_objects.bindings]]
-# name = "DO"
-# class_name = "Counter"
-# script_name = "testing"
+[[durable_objects.bindings]]
+name = "DO"
+class_name = "Counter"
+script_name = "testing"
 
 #   [[d1_databases]]
 #   database_id = "16678423-f19c-4a82-a3c1-161345dcfefe"
