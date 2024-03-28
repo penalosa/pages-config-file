@@ -5,7 +5,7 @@ compatibility_flags = ["url_standard"]
 
 [env.preview]
 compatibility_date = "2024-01-13"
-compatibility_flags = ["no_url_standard"
+compatibility_flags = ["no_url_standard"]
 
 
   [env.preview.vars]
