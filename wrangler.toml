@@ -24,3 +24,8 @@ VAR3 = "another-var-prod"
 name = "DO"
 class_name = "Counter"
 script_name = "testing"
+
+  [[d1_databases]]
+  database_id = "16678423-f19c-4a82-a3c1-161345dcfefe"
+  binding = "D1"
+  database_name = "D1"
