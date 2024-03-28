@@ -3,7 +3,7 @@ pages_build_output_dir = "public"
 
 [env.production]
 compatibility_date = "2024-02-13"
-compatibility_flags = ["no_url_standard"]
+compatibility_flags = ["nodejs_compat"]
 
   [env.production.vars]
   TEST_JSON = """
