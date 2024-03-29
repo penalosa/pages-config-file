@@ -47,8 +47,8 @@ queue = "test"
   binding = "AE"
   dataset = "data"
 
-  [ai]
-  binding = "AI"
+  # [ai]
+  # binding = "AI"
 
 
 
