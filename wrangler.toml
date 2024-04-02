@@ -51,11 +51,5 @@ queue = "test"
   # binding = "AI"
 
 
-   [env.staging.vars]
-  TEST_PLAINTEXT = "PLAINTEXT"
-  VAR1 = "holiday-prod"
-VAR2 = "celebrate-prod"
-VAR3 = "another-var-prod-2"
-
 
 
