@@ -6,6 +6,7 @@ compatibility_flags = ["nodejs_compat"]
 
   [vars]
   TEST_PLAINTEXT = "PLAINTEXT"
+  VAR_N = "1"
   VAR1 = "holiday-prod"
 VAR2 = "celebrate-prod"
 VAR3 = "another-var-prod-2"
