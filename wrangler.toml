@@ -1,9 +1,6 @@
 name = "pages-config-file"
 compatibility_date = "2020-02-03"
-# pages_build_output_dir = "public"
+pages_build_output_dir = "public"
 
 [vars]
 HELLO = "WORLD"
-
-[env.staging.vars]
-HELLO_STAGING = "WORLD"
