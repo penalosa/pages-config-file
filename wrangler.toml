@@ -4,3 +4,9 @@ pages_build_output_dir = "public"
 
 [env.staging.vars]
 HELLO = "WORLD"
+
+[[durable_objects.bindings]]
+name = "DO"
+class_name = "Counter"
+script_name = "testing"
+environment = "production"
