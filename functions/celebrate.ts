@@ -10,7 +10,7 @@ export async function onRequest(context) {
 	let obj = context.env.COUNTER.get(id);
 
 	// Send a request to the Durable Object, then await its response.
-	let resp = await obj.fetch("http://example.com");
+	let resp = await obj.fetch("http://example.com/increment");
 	let count = await resp.text();
 
 	return new Response(`Durable Object count: ${count}`);
