@@ -1,3 +1,3 @@
 {"name" : "pages-config-file"
-,"vars":1
+,"vars":{"HELLO":"WORLD"},"env":{"staging":{"vars":{}}}
 }
