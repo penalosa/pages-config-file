@@ -2,10 +2,10 @@ pages_build_output_dir = "./public"
 name = "pages-fns"
 compatibility_date = "2024-01-01"
 
-[vars]
-DINOS = "dinosaures"
-YARN_VERSION = "1"
-
 services = [
   { binding = "SERVICE", service = "no-bundle-worker" }
 ]
+
+[vars]
+DINOS = "dinosaures"
+YARN_VERSION = "1"
