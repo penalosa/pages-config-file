@@ -1,4 +1,4 @@
-pages_build_output_dir = "./mono-folder/public"
+pages_build_output_dir = "./public"
 name = "pages-fns"
 compatibility_date = "2024-01-01"
 
