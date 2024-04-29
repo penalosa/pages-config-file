@@ -9,3 +9,6 @@ services = [
 [vars]
 DINOS = "dinosaures"
 YARN_VERSION = "1"
+
+[ai]
+binding = "Ai"
